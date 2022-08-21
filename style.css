@@ -1,0 +1,62 @@
+/*h1{
+    color: red;
+  */
+
+#my-title{
+    color:blue;
+}
+
+a{
+    color: brown;
+    font-size: 20px;
+}
+#home{
+    border: 5px solid red;
+    margin: 10px;
+    font-size: 30px;
+    background: paleturquoise;
+}
+#contact{
+    border: 5px solid red;
+    margin: 10px;
+    font-size: 30px;
+    background: paleturquoise;
+}
+
+#imagem{
+    border: 5px solid red;
+    margin: 10px;
+    font-size: 30px;
+    background: paleturquoise;
+}
+
+.cor{
+    border: 4px solid orange;
+    font-size: 20px;
+    color: peru;
+}
+
+.Git{
+    margin: 10px;
+}
+
+thead, tbody{
+    color: coral;
+    font-size: 20px;
+}
+
+#conteiner{
+    border: 2px solid green;
+    padding: 0px;
+    font-size: 30px;
+    color: orange;
+}
+
+#bu{
+    margin: 50px';
+}
+
+p{
+    font-size: 20px;
+    margin: 0;
+}
